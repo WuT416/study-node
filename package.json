@@ -1,0 +1,21 @@
+{
+  "name": "study-node",
+  "version": "1.0.0",
+  "description": "node学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:fs": "node ./base-module/fs/main.js",
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuT416/study-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WuT416/study-node/issues"
+  },
+  "homepage": "https://github.com/WuT416/study-node#readme"
+}
