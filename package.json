@@ -7,6 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "fs:main": "node ./base-module/fs/main.js",
     "fs:other": "node ./base-module/fs/other.js",
+    "buffer:main": "node ./base-module/buffer/main.mjs",
+    "buffer:other": "node ./base-module/buffer/other.mjs",
     "commit": "git-cz"
   },
   "repository": {
