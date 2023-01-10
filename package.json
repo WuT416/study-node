@@ -9,6 +9,10 @@
     "fs:other": "node ./base-module/fs/other.js",
     "buffer:main": "node ./base-module/buffer/main.mjs",
     "buffer:other": "node ./base-module/buffer/other.mjs",
+    "stream:main": "node ./base-module/stream/main.js",
+    "stream:other": "node ./base-module/stream/other.js",
+    "stream:pipe": "nodemon ./base-module/stream/pipe.mjs",
+    "stream:pipee-video": "nodemon ./base-module/stream/pipe-video.mjs",
     "commit": "git-cz"
   },
   "repository": {

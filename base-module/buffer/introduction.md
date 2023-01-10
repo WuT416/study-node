@@ -10,4 +10,4 @@
 Buffer 类在全局作用域内可用，但仍然建议通过 import 或 require 语句显式地引用它。
 
 ## mjs
-mjs可以在js中使用es6语法
+mjs可以在js中使用es6语法，mjs中没有__dirname
